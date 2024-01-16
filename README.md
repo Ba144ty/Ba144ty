@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- ⚡ Fun fact: not funny
+- 🔭 I’m currently working on DevOps pipelines
+- 🌱 I’m currently learning DevOps 
 <!--
 **Ba144ty/Ba144ty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
